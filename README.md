@@ -25,6 +25,11 @@ This resource lets you open a door. You have to adapt it, or improve it as you s
 - Watch the events and use as you see fit
 - Its goooooooood
 
+**How to use**
+
+- Press H for open menu
+- Controls : Arrows = Up, Down, Right, Left for navigate and Entrer for validate 
+
 **Menu User features**
 
 - Dress again
