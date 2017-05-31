@@ -2,6 +2,9 @@
 
 Utility menu, allowing to make animations, to see his card or to be re-dressed.
 
+![Menu User](https://i.imgur.com/b4kZcYa.png
+)
+
  **Required**
 
 - EssentialMode 2.X (SQL Version)
@@ -31,6 +34,3 @@ This resource lets you open a door. You have to adapt it, or improve it as you s
 _**What is LVOS?**_
 
 _This is the diminutive of Los Vanilla Open Source, it is simply the category where I would share the codes of the server Los Vanilla, my server. I will share server codes. Just a kind of signature :)_
-
-![Menu User](https://i.imgur.com/b4kZcYa.png
-)
