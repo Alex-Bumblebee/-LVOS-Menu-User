@@ -28,7 +28,7 @@ This resource lets you open a door. You have to adapt it, or improve it as you s
 **How to use**
 
 - Press H for open menu
-- Controls : Arrows = Up, Down, Right, Left for navigate and Entrer for validate 
+- Controls : Arrows = Up, Down, Right, Left for navigate, Entrer for validate and Backspace for back
 
 **Menu User features**
 
