@@ -14,7 +14,8 @@ local savedOutfits = {}
 RegisterServerEvent('menuuser:changeSkin')
 AddEventHandler('menuuser:changeSkin', function()
   TriggerEvent('es:getPlayerFromId', source, function(user)
-      MySQL.Async.fetchAll("SELECT * FROM outfits WHERE identifier = '@name'", {['@name'] = user.identifier}, function (result)
+    local player = user.identifier
+      MySQL.Async.fetchAll("SELECT * FROM outfits WHERE identifier = @name", {['@name']  = player}, function (result)
         if(result[1]) then
           savedOutfits[source] = result[1]
           TriggerClientEvent("es_customization:setOutfit", source, savedOutfits[source])
