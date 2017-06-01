@@ -8,6 +8,7 @@ Utility menu, allowing to make animations, to see his card or to be re-dressed.
  **Required**
 
 - EssentialMode 2.X (SQL Version)
+- [MYSQL Async](https://github.com/brouznouf/fivem-mysql-async)
 - Optional : [ID Card](https://github.com/PandaBasketteur/-LVOS-id-card) (ForID Card)
 - Optional : [es_customization from AdvancedRP](https://forum.fivem.net/t/release-es-advancedrp-server-dump/14709) (For dress again)
 
